@@ -18,7 +18,7 @@ const recipes = [
     ],
   },
   {
-    title: "Sandwich Bread",
+    title: "Bread",
     ingredients: [" ¾ cup (174g) water",
      "½ cup (125g) whole milk",
     " 1 packet (9g) active dry yeast (or 6.75g - you can round up to 7g if your scale doesn't have decimals -  instant yeast)",

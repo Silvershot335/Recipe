@@ -1,20 +1,18 @@
-p {
-    text-align: center;
-    font-weight: bold;
+p,
+li {
+  text-align: center;
+  font-weight: bold;
 }
 
 .card-body {
-    display: grid;
-    grid-template-columns: 1fr .25fr 1fr;
-    grid-template-areas:
-    "left center right"
-   
+  display: flex;
+  justify-content: space-around;
 }
 
 .card-header {
-    text-align: center;
+  text-align: center;
 }
 
-.betterheader {
-    color: rgb(0, 0, 0);
+.better-header {
+  color: rgb(0, 0, 0);
 }
